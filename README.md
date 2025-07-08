@@ -1,9 +1,9 @@
 # UCAR-TOPDOER-test
 
-pip install fastapi uvicorn SQLAlchemy pydantic
-uvicorn main:app --reload
+```pip install fastapi uvicorn SQLAlchemy pydantic```
+```uvicorn main:app --reload```
 
-Примеры curl-запросов и их ответов.
+# Примеры curl-запросов и их ответов.
 
 запрос:
 curl -X 'POST' \
